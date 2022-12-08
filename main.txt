@@ -22,8 +22,8 @@ Agent: That's correct. Just about everybody here is.
 
 Pizza man: And you're at the psychiatric hospital?
 
-Agent: That's correct. And make sure you don't go through the front doors. We have them locked. You'll have to go around to the back to the service 
-entrance to deliver the pizzas.
+Agent: That's correct. And make sure you don't go through the front doors. We have them locked. 
+       You'll have to go around to the back to the service entrance to deliver the pizzas.
 
 Pizza man: And you say you're all FBI agents?
 
@@ -43,7 +43,8 @@ Agent: I have my check book right here.
 
 Pizza man: And you are all FBI agents?
 
-Agent: That's right, everyone here is an FBI agent. Can you remember to bring the pizzas and sodas to the service entrance in the rear? 
-We have the front doors locked.
+Agent: That's right, everyone here is an FBI agent. 
+       Can you remember to bring the pizzas and sodas to the service entrance in the rear? 
+       We have the front doors locked.
 
 Pizza man: I don't think so.
