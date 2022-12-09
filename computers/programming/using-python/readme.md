@@ -1,8 +1,8 @@
 #### Table of Contents
 
 - [Using `str`](../using-python/using-str/using-str.md)
-- [Using `Dict`]([../using-python/using-dict/using-dict.md)
-- [Using `set`]([../using-python/using-set/using-set.md)
+- [Using `Dict`](../using-python/using-dict/using-dict.md)
+- [Using `set`](../using-python/using-set/using-set.md)
 - [Using `tuple`](../using-python/using-tuple/using-tuple.md)
 - [Using functions](../using-python/using-functions/using-functions.md)
 - [Using `pathlib`](../using-python/using-pathlib/using-pathlib.md)
