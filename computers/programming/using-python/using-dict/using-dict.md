@@ -5,7 +5,7 @@ weapons : Dict[str,int] = {"Sword" : 20, "Axe": 10, "Bow": 15}
 
 for key, value in enumerate(weapons.items(), start = 1):
     # The first pair is Sword : 20, but because enumerate returns an index,
-    # key will be 1 (the index returned from enumerate) and value will be the pair Sword:20.
+    # key will be an int (the index returned from enumerate) and value will be a tuple.
     print(f"Key: {key} Value: {value}")
 
 # Output:
