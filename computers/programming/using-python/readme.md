@@ -1,6 +1,6 @@
 #### Table of Contents
 
-- [Using `str`](../main/using-sequence/using-sequence.md)
+- [Using `str`](../using-python/using-str/using-str.md)
 - [Using `Dict`](../main/using-dict/using-dict.md)
 - [Using `set`](../main/using-set/using-set.md)
 - [Using `tuple`](../main/using-namedtuple/using-namedtuple.md)
