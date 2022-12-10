@@ -7,3 +7,4 @@
 - [Using functions](../using-python/using-functions/using-functions.md)
 - [Using `pathlib`](../using-python/using-pathlib/using-pathlib.md)
 - [Using `builtin` functions](../using-python/using-builtin-functions/using-builtin-functions.md)
+- [Understanding `strip()`](../using-python/understanding-strip/understand-strip().md)
