@@ -8,3 +8,4 @@
 - [Using `pathlib`](../using-python/using-pathlib/using-pathlib.md)
 - [Using `builtin` functions](../using-python/using-builtin-functions/using-builtin-functions.md)
 - [Understanding `strip()`](../using-python/understanding-strip/understand-strip().md)
+- [Understanding `set`](../using-python/understanding-set/understand-set.md)
