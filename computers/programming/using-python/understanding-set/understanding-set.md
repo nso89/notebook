@@ -11,7 +11,7 @@ Using <code>union()</code>:
 >>> friends_who_play_video_games.union(friends_who_play_outside)
 {'Svetlana', 'Kathy', 'Charles', 'Olivia', 'Annabelle', 'Amber', 'Charlotte', 'Ben', 'Scott'}
 ```
-It contains all the elements of <code>friends_who_play_video_games</code> and <code>friends_who_play_outside</code>. The two elements <code>Chares</code> and <code>Scott</code>, both play video games and outside, so they also appear in the <code>union</code>.
+It contains all the elements of <code>friends_who_play_video_games</code> and <code>friends_who_play_outside</code>. The two elements <code>Charles</code> and <code>Scott</code>, both play video games and outside, so they also appear in the <code>union</code>.
 
 Using <code>intersection()</code>:
 ```python
