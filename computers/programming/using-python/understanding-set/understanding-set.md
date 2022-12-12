@@ -21,7 +21,7 @@ Using <code>intersection()</code>:
 
 We're only interested in the friends that play video games **and** play outside.
 
-Using <code>difference</code>:
+Using <code>difference()</code>:
 ```python
 >>> friends_who_play_video_games.difference(friends_who_play_outside)
 {'Kathy', 'Svetlana', 'Annabelle'}
