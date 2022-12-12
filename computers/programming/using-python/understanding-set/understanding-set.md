@@ -1,0 +1,21 @@
+Consider these two <code>Set</code>'s:
+
+```python
+friends_who_play_video_games = set(["Svetlana","Charles","Annabelle","Scott","Kathy"])
+friends_who_play_outside = set(["Olivia","Charlotte","Ben","Amber","Scott","Charles"])
+```
+
+![understanding-set](understanding-sets.png)
+
+Using <code>union()</code>:
+```python
+>>> friends_who_play_video_games.union(friends_who_play_outside)
+{'Svetlana', 'Kathy', 'Charles', 'Olivia', 'Annabelle', 'Amber', 'Charlotte', 'Ben', 'Scott'}
+```
+It contains all the elements of <code>friends_who_play_video_games</code> and <code>friends_who_play_outside</code>. The two elements <code>Chares</code> and <code>Scott</code>, both play video games and outside, so they also appear in the <code>union</code>.
+
+Using <code>intersection</code>:
+```python
+>>> friends_who_play_video_games.intersection(friends_who_play_outside)
+{'Scott', 'Charles'}
+```
