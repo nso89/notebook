@@ -26,7 +26,7 @@ print(type(*middle)) # Output: TypeError: type() takes 1 or 3 arguments
 print(type(middle)) # Output: <class 'list'>
 ```
 
-All the operations availbe for `sequence` are availbe for `tuple`.
+All the operations availbe for `sequence` are available for `tuple`.
 
 External Reading:
 
