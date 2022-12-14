@@ -1,4 +1,4 @@
 #### Table of Contents
 
-* [Fonts](../main/computers/fonts/fonts.md)
-* Programming 
+* [Fonts](../blob/main/computers/fonts/fonts.md)
+* Programming
