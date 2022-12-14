@@ -1,4 +1,4 @@
 #### Table of Contents
 
 * [Using <code>Markdown</code>](../programming/using-markdown/using-markdown.md)
-* [Using <code>Python</code>](../programming/using-python/using-python.md)
+* [Using <code>Python</code>](../programming/using-python/readme.md)
