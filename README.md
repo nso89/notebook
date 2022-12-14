@@ -7,6 +7,6 @@ If a section becomes more elaborate and well written, I'll most likely move it t
 
 #### Table of Contents
 
-* Computers
+* [Computers](../main/computers/README.md)
 * Jokes
 * Random Thoughts
