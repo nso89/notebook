@@ -1,4 +1,4 @@
 #### Table of Contents
 
-* Using `Ballerina`
-* [Using <code>Python</code>](../programming/using-python/readme.md)
+* [Using <code>Markdown</code>](../programming/using-markdown/using-markdown.md)
+* [Using <code>Python</code>](../programming/using-markdown/using-markdown.md)
