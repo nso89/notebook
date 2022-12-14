@@ -1,4 +1,4 @@
 #### Table of Contents
 
 * Using `Ballerina`
-* Using `Python`
+* [Using <code>Python</code>](../programming/using-python/readme.md)
