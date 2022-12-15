@@ -1,3 +1,3 @@
 #### Table of Contents
 
-* [Hello World](../programming/using-wren/hello-world.md)
+* [Hello World](../using-wren/hello-world.md)
