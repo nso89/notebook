@@ -8,8 +8,8 @@ program introduction
 
   print *, message
   
-# Output:
-Hello World
+! Output:
+! Hello World
 
 end program introduction
 ```
