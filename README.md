@@ -9,4 +9,4 @@ If a section becomes more elaborate and well written, I'll most likely move it t
 
 * [Computers](../main/computers/README.md)
 * [Jokes](../main/jokes/README.md)
-* [Random Thoughts](../main/random-thought)
+* [Random Thoughts]
