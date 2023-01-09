@@ -9,4 +9,4 @@
 - [Using `builtin` functions](../using-python/using-builtin-functions/using-builtin-functions.md)
 - [Understanding `strip()`](../using-python/understanding-strip/understand-strip().md)
 - [Understanding `set`](../using-python/understanding-set/understanding-set.md)
-- [Uunderstanding `abs()`](../using-python/understanding-abs()/understanding-abs().md)
+- [Understanding `abs()`](../using-python/understanding-abs()/understanding-abs().py)
